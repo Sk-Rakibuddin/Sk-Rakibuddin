@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sk-rakibuddin.github.io/](https://sk-rakibuddin.github.io/)
 
-- 💬 Ask me about **JA MySQL, Spring Boot, JavaScript, DSA, HTML,CSS**
+- 💬 Ask me about **JAVA, MySQL, Spring Boot, JavaScript, DSA, HTML,CSS**
 
 - 📫 How to reach me **rakibuddinsk7622@gmail.com**
 
