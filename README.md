@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk-rakibuddin&label=Profile%20views&color=0e75b6&style=flat" alt="sk-rakibuddin" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sk-rakibuddin.github.io/](https://sk-rakibuddin.github.io/)
+- 👨‍💻 All of my projects are available at My Portfolio [https://sk-rakibuddin.github.io/](https://sk-rakibuddin.github.io/)
 
 - 💬 Ask me about **JAVA, MySQL, Spring Boot, JavaScript, DSA, HTML,CSS**
 
 - 📫 How to reach me **rakibuddinsk7622@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x3fqSrxZz97FG_V6_tBd_gLMapHqSTAn/view?usp=sharing](https://drive.google.com/file/d/1x3fqSrxZz97FG_V6_tBd_gLMapHqSTAn/view?usp=sharing)
+- 📄 Know about my experiences see my resume [https://drive.google.com/file/d/1x3fqSrxZz97FG_V6_tBd_gLMapHqSTAn/view?usp=sharing](https://drive.google.com/file/d/1x3fqSrxZz97FG_V6_tBd_gLMapHqSTAn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
